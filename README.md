@@ -1,0 +1,2 @@
+# crypto
+Autotrading crypto project 
